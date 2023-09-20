@@ -1,5 +1,5 @@
 # Project 04 - Global Missing Migrants Dataset
-Joey Rodriguez | Ryan Hawkins | Devin Alvarez | Venessa Salazar 
+Joey Rodriguez | Ryann Hawkins | Devin Alvarez | Venessa Salazar 
 
 Our team explored a Kaggle dataset which represented migrants who have gone missing on their routes to international destinations from 2014 to 2023. In this project, we extracted, cleaned, and created visual representations for the various migrant demographics (male, female, child), survivability, hazardous routes etc) shown in the dataset. Addiionally, we used machine learning to predict whether the cause of death would be related to natural causes or associated with other factors such as violence.
 
